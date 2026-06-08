@@ -1,0 +1,9 @@
+# 本地真实密钥，不要提交
+config.json
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
